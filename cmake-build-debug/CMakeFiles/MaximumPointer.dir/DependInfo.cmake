@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/__DATA/Documents/UTEC/ADS2020-1/MaximumPointer/main.cpp" "D:/__DATA/Documents/UTEC/ADS2020-1/MaximumPointer/cmake-build-debug/CMakeFiles/MaximumPointer.dir/main.cpp.obj"
+  "D:/__DATA/Documents/UTEC/ADS2020-1/MaxPointer/train-maximum-in-pointer-array-Massimoic/main.cpp" "D:/__DATA/Documents/UTEC/ADS2020-1/MaxPointer/train-maximum-in-pointer-array-Massimoic/cmake-build-debug/CMakeFiles/MaximumPointer.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
